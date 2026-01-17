@@ -19,6 +19,6 @@ The goal of this project was to practice database design, data management, and b
 
 ## Bonus
 
-A user interface is included to demonstrate how this data would be used in a practical setting.
+A user interface is included to demonstrate how this project would be used in a practical setting.
 
 
